@@ -1,0 +1,37 @@
+
+* {
+    color: rgb(199, 207, 217);
+}
+body {
+    background-color: rgb(140, 86, 55);
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+ul, li {
+    font-size: 18px;
+    list-style-type: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /*background-color: rgb(89, 58, 46);*/
+}
+ol {
+    font-size: 18px;
+    margin-top: 1px;
+    margin-bottom: 5px;
+    list-style-type: armenian;
+}
+dl {
+    font-size: 18px;
+}
+.teste-background {
+    font-weight: normal;
+}
+.separador-html1, 
+.separador-html2, 
+.separador-css1, 
+.separador-css2 {
+    background-color: rgb(89, 58, 46);
+}
+/*rgb(199, 207, 217)*/
